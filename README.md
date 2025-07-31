@@ -60,8 +60,7 @@ Conv2D → BatchNorm → Conv2D → BatchNorm → Dropout
 ├── requirements.txt        # Python-Abhängigkeiten
 ├── demo_screenshot.png     # Screenshot der App
 ├── README.md               # Diese Datei :)
-└── Test/                   # Beispiel-Testbilder
-```
+└── Test/                   # Optional: Beispielbilder (nicht im Repo enthalten, siehe Kaggle-Link)
 
 ---
 
